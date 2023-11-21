@@ -1,0 +1,11 @@
+{
+    "Produtos": [
+        {
+            "img": "../../assets/arroz.webp",
+            "nome": "arroz solito",
+            "descrição" : "arroz solito tipo 1",
+            "id": 1, 
+            "valor": 35
+        }
+    ]
+}
